@@ -1,0 +1,4 @@
+﻿  Drill_B1.cpp
+E:\VS Projects\Assignment2.1\Drill_B1\Drill_B1.cpp(6,1): error C2059: syntax error: 'while'
+E:\VS Projects\Assignment2.1\Drill_B1\Drill_B1.cpp(7,1): error C2143: syntax error: missing ';' before '{'
+E:\VS Projects\Assignment2.1\Drill_B1\Drill_B1.cpp(7,1): error C2447: '{': missing function header (old-style formal list?)

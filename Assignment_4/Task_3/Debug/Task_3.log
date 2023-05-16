@@ -1,0 +1,4 @@
+﻿  Task_3.cpp
+E:\VS Projects\Assignment_4\Task_3\Task_3.cpp(26,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\VS Projects\Assignment_4\Task_3\Task_3.cpp(27,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Task_3.vcxproj -> E:\VS Projects\Assignment_4\Debug\Task_3.exe

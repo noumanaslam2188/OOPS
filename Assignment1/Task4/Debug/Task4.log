@@ -1,0 +1,3 @@
+﻿  Task4.cpp
+E:\VS Projects\Assignment1\Task4\Task4.cpp(22,37): warning C4101: 'result': unreferenced local variable
+  Task4.vcxproj -> E:\VS Projects\Assignment1\Debug\Task4.exe

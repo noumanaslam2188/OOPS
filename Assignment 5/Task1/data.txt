@@ -1,0 +1,3 @@
+total number of boys 98
+total number of girls 8
+sum is 106

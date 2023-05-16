@@ -1,0 +1,3 @@
+﻿  Drill_A.cpp
+E:\VS Projects\Assignment2.1\Drill_A\Drill_A.cpp(9,6): warning C4101: 'friend_age': unreferenced local variable
+  Drill_A.vcxproj -> E:\VS Projects\Assignment2.1\Debug\Drill_A.exe

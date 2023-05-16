@@ -1,0 +1,4 @@
+﻿  Task7 rectangle.cpp
+E:\VS Projects\Assignment1\Task7 rectangle\Task7 rectangle.cpp(11,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\VS Projects\Assignment1\Task7 rectangle\Task7 rectangle.cpp(12,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Task7 rectangle.vcxproj -> E:\VS Projects\Assignment1\Debug\Task7 rectangle.exe

@@ -1,0 +1,4 @@
+﻿  Task4.cpp
+E:\VS Projects\Assignment 5\Task4\Task4.cpp(89,16): warning C4101: 'g': unreferenced local variable
+E:\VS Projects\Assignment 5\Task4\Task4.cpp(125): warning C4715: 'rational_numbers::lcm': not all control paths return a value
+  Task4.vcxproj -> E:\VS Projects\Assignment 5\Debug\Task4.exe

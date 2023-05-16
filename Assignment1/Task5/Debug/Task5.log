@@ -1,0 +1,6 @@
+﻿  Task5.cpp
+E:\VS Projects\Assignment1\Task5\Task5.cpp(23,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\VS Projects\Assignment1\Task5\Task5.cpp(24,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\VS Projects\Assignment1\Task5\Task5.cpp(25,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\VS Projects\Assignment1\Task5\Task5.cpp(26,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Task5.vcxproj -> E:\VS Projects\Assignment1\Debug\Task5.exe

@@ -1,0 +1,19 @@
+﻿'Drill_A.exe' (Win32): Loaded 'E:\VS Projects\Assignment2.1\Debug\Drill_A.exe'. Symbols loaded.
+'Drill_A.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Drill_A.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Drill_A.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Drill_A.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Drill_A.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Drill_A.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2d2c has exited with code 0 (0x0).
+'Drill_A.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Drill_A.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Drill_A.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Drill_A.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Drill_A.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Drill_A.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Drill_A.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x1944 has exited with code 0 (0x0).
+The thread 0x34e8 has exited with code 0 (0x0).
+The thread 0x3f90 has exited with code 0 (0x0).
+The program '[15732] Drill_A.exe' has exited with code 0 (0x0).
